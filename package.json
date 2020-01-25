@@ -1,0 +1,24 @@
+{
+  "name": "node-compras",
+  "version": "1.0.0",
+  "description": "Site de compras usando Node.js.  Pretendo refazer o front, no futuro, usando React.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/momorg7/node-compras.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/momorg7/node-compras/issues"
+  },
+  "homepage": "https://github.com/momorg7/node-compras#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
